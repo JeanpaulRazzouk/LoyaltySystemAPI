@@ -1,7 +1,3 @@
-Sure! Here is a comprehensive README documentation for your loyalty system API project:
-
----
-
 # Loyalty System API
 
 This project is a minimal loyalty system API built with .NET Core that allows users to earn points. The project includes functionalities such as logging, database access, request validation, authentication, caching, unit testing, and containerization.
@@ -29,7 +25,7 @@ This project is a minimal loyalty system API built with .NET Core that allows us
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/loyaltysystemapi.git
+git clone https://github.com/JeanpaulRazzouk/loyaltysystemapi.git
 cd loyaltysystemapi
 ```
 
@@ -154,11 +150,3 @@ LoyaltySystemAPI/
 ## Contributing
 
 Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides a comprehensive guide to setting up and running the loyalty system API, including details about features, prerequisites, setup instructions, API endpoints, and project structure.
